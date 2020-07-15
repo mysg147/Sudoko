@@ -1,0 +1,2 @@
+# Sudoko
+A suduko game 
